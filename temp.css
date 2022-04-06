@@ -1,0 +1,25 @@
+body{
+
+    padding: 50px 100px;
+    text-align: center;
+    
+}
+#container{
+    background-color: bisque;
+    padding: 50px;
+}
+.make{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 70px;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+    background-color:azure ;
+}
